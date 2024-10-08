@@ -1,0 +1,10 @@
+name: "Hello Deployment",
+description: "A UIX deployment demo";
+
+plugin git_deploy (
+	prod: (
+		on: 'push'
+		branch: 'main',
+		tests: false
+	)
+)

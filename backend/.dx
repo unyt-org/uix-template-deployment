@@ -1,0 +1,13 @@
+use stage from #public.uix;
+
+endpoint: stage {
+	prod: @+your-app
+},
+
+location: stage {
+	prod: @+your-host
+},
+
+domain: stage {
+	prod: 'example.com'
+}
