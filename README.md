@@ -57,13 +57,12 @@ Follow these steps to launch your UIX app in minutey. For more information check
 	```
 
 	This command will deploy your UIX app to your custom Docker host, making it live on your custom domain.
-
-	> [!WARNING]
-	> If the Docker Host you plan to deploy to has a access token configured, you need to pass this access token to UIX to make sure your app can authenticate.<br/>
-	> You can set the access token as `HOST_TOKEN` environment variable on your local UIX projects console.
-	> ```bash
-	> export HOST_TOKEN=YOUR_TOKEN
-	> ```
+> [!WARNING]
+> If the Docker Host you plan to deploy to has a access token configured, you need to pass this access token to UIX to make sure your app can authenticate.<br/>
+> You can set the access token as `HOST_TOKEN` environment variable on your local UIX projects console.
+> ```bash
+> export HOST_TOKEN=YOUR_TOKEN
+> ```
 
 ---
 
