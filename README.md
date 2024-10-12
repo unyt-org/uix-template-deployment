@@ -1,4 +1,4 @@
-# UIX Deployment Base Project
+# UIX Template: Deployment
 
 Deploying [UIX](https://github.com/unyt-org/uix) apps is an essential part of taking your project into production, and while the [unyt.app](https://unyt.app) infrastructure is a great solution, there are several ways to host your own UIX projects outside of it.
 
