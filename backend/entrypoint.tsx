@@ -1,4 +1,4 @@
-import { type Entrypoint } from "uix/html/entrypoints.ts";
+import { type Entrypoint } from "uix/providers/entrypoints.ts";
 
 export default {
 	'*': <p>
