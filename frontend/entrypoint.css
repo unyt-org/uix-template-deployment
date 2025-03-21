@@ -1,8 +1,8 @@
 p {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	height: 100dvh;
-	font-size: xx-large;
-	color: var(--green);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100dvh;
+  font-size: xx-large;
+  color: var(--green);
 }
